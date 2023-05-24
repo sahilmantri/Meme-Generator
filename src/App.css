@@ -1,0 +1,76 @@
+.comp {
+  background-image: linear-gradient(to right, #8360c3, #2ebf91);
+  padding: 20px;
+}
+.App {
+  text-align: center;
+  background-image: linear-gradient(to right, #ff6e7f, #bfe9ff);
+
+  width: 500px;
+  align-self: center;
+  margin: auto;
+  border-radius: 10px;
+  height: auto
+  
+}
+.form{
+  height: 150px;
+}
+.header--img {
+    width: 500px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+}
+
+.form-input {
+  border-radius: 5px;
+  margin: 20px;
+  padding: 4px;
+  border:1px solid #D5D4D8;
+}
+
+button {
+  width: 95%;
+  border:1px solid #D5D4D8;
+  size: 5px;
+  color: #D5D4D8;
+  background-image: linear-gradient(to right, #0099f7, #f11712);
+  padding: 15px;
+  border-radius: 5px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.meme{
+  position: relative;
+}
+.memeImage {
+  width: 500px;
+  padding-top:20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.top-text {
+  position: absolute;
+  width: 80%;
+  text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 15px 0;
+  padding: 0 5px;
+  font-family: impact, sans-serif;
+  font-size: 2em;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 1px;
+  text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000, 0 -2px 0 #000, -2px 0 0 #000, 2px 2px 5px #000;
+}
+
+.bottom {
+  bottom: 0;
+}
+
+.top {
+  top: 0;
+}
