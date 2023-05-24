@@ -22,7 +22,7 @@
 <h1>INSTALLATION</h1>
 
 <pre>
-git clone --depth 1 [https://github.com/duxianwei520/react.git ](https://github.com/sahilmantri/Meme-Generator) 
+git clone [https://github.com/duxianwei520/react.git ](https://github.com/sahilmantri/Meme-Generator) 
 
 npm install 
 
